@@ -1,0 +1,1 @@
+<footer> <p>© 2025 WebTech Team 13. All rights reserved.</p> </footer>
